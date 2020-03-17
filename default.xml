@@ -22,6 +22,10 @@
            fetch="https://github.com/ThankYouMario"
            revision="quartz" />
 
+  <remote name="msm8974"
+           fetch="https://github.com/AOSPA-MSM8974"
+           revision="quartz" />
+
   <remote  name="github"
            fetch="https://github.com" />
 

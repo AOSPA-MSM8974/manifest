@@ -150,7 +150,7 @@
 
   <!-- System -->
   <remove-project name="platform/system/bt" />
-  <project path="system/bt" name="AOSPA/android_system_bt" remote="aospa" groups="aospa" />
+  <project path="system/bt" name="android_system_bt" remote="msm8974" />
   <remove-project name="platform/system/core" />
   <project path="system/core" name="AOSPA/android_system_core" remote="aospa" groups="aospa" />
   <remove-project name="platform/system/netd" />

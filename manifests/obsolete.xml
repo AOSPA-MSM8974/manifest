@@ -32,6 +32,7 @@
   <remove-project name="platform/vendor/qcom-opensource/fm-commonsys" />
   <remove-project name="platform/vendor/qcom-opensource/fst-manager"/>
   <remove-project name="platform/vendor/opensource/audio-kernel"/>
+  <remove-project name="platform/vendor/qcom-opensource/system/bt"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/fw-api"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0"/>

@@ -156,7 +156,7 @@
   <remove-project name="platform/system/netd" />
   <project path="system/netd" name="android_system_netd" remote="msm8974" />
   <remove-project name="platform/system/sepolicy" />
-  <project path="system/sepolicy" name="AOSPA/android_system_sepolicy" remote="aospa" groups="aospa" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="msm8974" />
   <remove-project name="platform/system/update_engine" />
   <project path="system/update_engine" name="AOSPA/android_system_update_engine" remote="aospa" groups="aospa" />
   <remove-project name="platform/system/vold" />

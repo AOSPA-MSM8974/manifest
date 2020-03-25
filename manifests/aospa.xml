@@ -168,6 +168,9 @@
   <remove-project name="platform/system/vold" />
   <project path="system/vold" name="AOSPA/android_system_vold" remote="aospa" groups="aospa" />
 
+  <!-- System/tools -->
+  <project path="system/tools/dtbtool" name="LineageOS/android_system_tools_dtbtool" remote="github" revision="lineage-17.1" />
+
   <!-- Vendor -->
   <project path="vendor/pa" name="android_vendor_pa" remote="msm8974" >
     <copyfile src="build.sh" dest="rom-build.sh" />

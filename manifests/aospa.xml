@@ -74,7 +74,7 @@
   <remove-project name="platform/frameworks/native" />
   <project path="frameworks/native" name="android_frameworks_native" remote="msm8974" />
   <remove-project name="platform/frameworks/opt/net/wifi" />
-  <project path="frameworks/opt/net/wifi" name="AOSPA/android_frameworks_opt_net_wifi" remote="aospa" groups="aospa" />
+  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="msm8974" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <project path="frameworks/opt/telephony" name="AOSPA/android_frameworks_opt_telephony" remote="aospa" groups="aospa" />
 
